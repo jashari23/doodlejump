@@ -8,6 +8,6 @@ public class doodlejump {
         int c = x+y;
         System.out.println("x+y= "+c);
 
-        System.out.println("Doodler");
+        System.out.println("Doodler & Jump");
     }
 }
